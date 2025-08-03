@@ -4,7 +4,11 @@ import { View } from "react-native";
 export default function Index() {
   return (
     <View>
-      <HighlightHeader />
+      <HighlightHeader
+        data={{
+          total: "R$ 2.456,00"
+        }}
+      />
     </View>
   );
 }
