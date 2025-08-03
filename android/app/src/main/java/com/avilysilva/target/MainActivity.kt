@@ -1,4 +1,4 @@
-package com.targetapp
+package com.avilysilva.target
 
 import android.os.Build
 import android.os.Bundle
