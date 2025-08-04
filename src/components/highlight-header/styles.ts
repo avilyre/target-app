@@ -10,6 +10,11 @@ export const styles = StyleSheet.create({
     gap: 24,
     justifyContent: 'flex-end'
   },
+  summaryContainer: {
+    gap: 12,
+    flexDirection: 'row',
+    justifyContent: 'space-between'
+  },
   label: {
     fontSize: 12,
     fontFamily: fontFamily.regular,
